@@ -2,14 +2,10 @@
 This is a work in progress
 
 
-I found that fonts that I decided to use at 1001freefonts.com
+I found the fonts that I decided to use at 1001freefonts.com
+They are: darkdominion, Caviar Dreams, Japanese Style, Old English Five, and Praetoria D.
 
-I am planning on implementing some additional features in the future:
-  Select game functionality for several additional total war titles (Rome, Medieval 2, and Shogun 2), so the user
-  can receive a random faction based on the selected game.
-  
-  Implement selection between vortex and mortal empires for the Total War Warhammer selection.
-  
-  Implement an exclude function so that user can remove specific choices from the randomizer.
-  
-  Implement a function that will display faction/race details.
+Changes:
+  Implemented a series of .png files that will display faction details.
+  Implemented more choices for common Total War games (Medieval II, Shogun II, and Rome).
+  Implemented the option to choose between Vortex and Mortal Empires campaigns in the Total War: Warhammer II section.
